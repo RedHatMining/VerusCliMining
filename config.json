@@ -1,17 +1,17 @@
 {
-	"pools":[
-	{
-		"name":  "Luckpool",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
-	}],
-	"user": "REvD3cThuc5TyYBeisKsP6t8ctexTi6vQ2.Solar Phone TCLA3X",
-	"pass": "c=PGN",
-	"algo": "verus",
-	"threads": 8,
-	"cpu-priority": 1,
-	"retry-pause": 5,
-	"api-allow": "0/0",
-	"api-bind": "0.0.0.0:4068",
-	"api-remote": ""
+    "pools":[
+    {
+        "name":  "veruspool",
+            "url": "stratum+tcp://pool.veruscoin.io:9998",
+        "timeout": 150
+    }],
+    "user": "RNWzMZm5KQmEUb5aTJ39tnYHtFNxizUms9.phone",
+    "pass": "x",
+    "algo": "verus",
+    "threads": 8,
+    "cpu-priority": 1,
+    "retry-pause": 5,
+    "api-allow": "0/0",
+    "api-bind": "0.0.0.0:4068",
+    "api-remote": ""
 }
