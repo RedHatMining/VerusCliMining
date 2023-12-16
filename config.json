@@ -1,11 +1,11 @@
 {
     "pools":[
     {
-        "name":  "veruspool",
-            "url": "stratum+tcp://pool.veruscoin.io:9998",
+        "name":  "vipor",
+            "url": "stratum+tcp://us.vipor.net:5040",
         "timeout": 150
     }],
-    "user": "RNWzMZm5KQmEUb5aTJ39tnYHtFNxizUms9.phone",
+    "user": "RFEMboyUM519KG66UhH6uf2MmoZ3u6zMfx.phone",
     "pass": "x",
     "algo": "verus",
     "threads": 8,
